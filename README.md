@@ -24,7 +24,7 @@ e duas de nível "difícil", os exercícios foram resolvidos usando a linguagem 
     </thead>
     <tbody>
         <tr>
-            <td><a href=" target="_blank"></a></td>
+            <td><a href=https://leetcode.com/problems/search-a-2d-matrix-ii/description/" target="_blank">240. Search a 2D Matrix II</a></td>
             <td>Médio</td>
         </tr>
         <tr>
@@ -32,7 +32,7 @@ e duas de nível "difícil", os exercícios foram resolvidos usando a linguagem 
             <td>Médio</td>
         </tr>
         <tr>
-            <td><a " target="_blank"></a></td>
+            <td><a href= https://leetcode.com/problems/count-of-smaller-numbers-after-self/description/" target="_blank">315. Count of Smaller Numbers After Self</a></td>
             <td>Difícil</td>
         </tr>
         <tr>
