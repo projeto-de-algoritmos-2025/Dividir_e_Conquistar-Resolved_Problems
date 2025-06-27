@@ -54,8 +54,8 @@ e duas de nível "difícil", os exercícios foram resolvidos usando a linguagem 
     </thead>
     <tbody>
         <tr>
-            <tdVideo da apresentação dos problemas 451 e 879 </td>
-            <td><a href=">Assistir no YouTube</a></td>
+            <td>Video da apresentação dos problemas 240 e 315 </td>
+            <td><a href="https://youtu.be/ZDtINFlkTRY">Assistir no YouTube</a></td>
         </tr>
         <tr>
             <td> </td>
