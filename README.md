@@ -28,7 +28,8 @@ e duas de nível "difícil", os exercícios foram resolvidos usando a linguagem 
             <td>Médio</td>
         </tr>
         <tr>
-            <td><a =problem-list-v2&envId=greedy" target="_blank"></a></td>
+            <td><a href= https://leetcode.com/problems/maximum-subarray/description/"
+            target="_blank">53. Maximum Subarray</a></td>
             <td>Médio</td>
         </tr>
         <tr>
@@ -36,7 +37,7 @@ e duas de nível "difícil", os exercícios foram resolvidos usando a linguagem 
             <td>Difícil</td>
         </tr>
         <tr>
-            <td><a href= target= ></a></td>
+            <td><a href= https://leetcode.com/problems/median-of-two-sorted-arrays/description/" target="_blank">4. Median of Two Sorted Arrays</a></td>
             <td>Difícil</td>
         </tr>
     </tbody>
@@ -58,8 +59,8 @@ e duas de nível "difícil", os exercícios foram resolvidos usando a linguagem 
             <td><a href="https://youtu.be/ZDtINFlkTRY">Assistir no YouTube</a></td>
         </tr>
         <tr>
-            <td> </td>
-            <td><a href= target="_blank">Assistir no YouTube</a></td>
+            <td>Video da apresentação dos problemas 4 e 53 </td>
+            <td><a href="https://www.youtube.com/watch?v=x3rcloG_Tqo">Assistir no YouTube</a></td>
         </tr>
     </tbody>
 </table>
